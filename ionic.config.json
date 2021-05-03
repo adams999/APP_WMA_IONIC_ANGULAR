@@ -1,0 +1,8 @@
+{
+  "name": "World Medic Assist",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
