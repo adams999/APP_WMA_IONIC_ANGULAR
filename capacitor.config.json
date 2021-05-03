@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "World Medic Assist",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
